@@ -37,8 +37,6 @@ attaching to a network interface.
                 So each pixel of the height of the resulting image represents one microsecond.
         -version
                 Show version.
-        -version
-                Show version
 
 Building
 --------
